@@ -1,0 +1,247 @@
+#main {
+    width: 1525px;
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+#muc-luc-head {
+    width: 25%;
+    margin: auto;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: #ffbece;
+}
+
+#muc-luc {
+    margin: 10px;
+    margin-top: auto;
+    float: left;
+    padding: 15px;
+    width: 40%;
+    border: 3px solid;
+    border-color: black;
+}
+
+#note {
+    padding: 10px;
+    padding-bottom: 20px;
+    width: 50%;;
+    margin-left: 30px; 
+    margin-right: auto;
+    vertical-align: auto;
+    display: flex;
+    max-height: fit-content;
+    font-style: italic;
+    border: 3px solid black;
+}
+
+
+#missed-tb {
+   margin: auto;
+   width: 25%;
+   margin-right: 80px;
+   margin-left: 30px;
+   border: 3px solid black;
+   padding: 15px;
+}
+
+#list-missed-h {
+    margin: auto;
+    background-color: #ffbece;
+    font-weight: bold;
+    text-align: center;
+}
+
+#notep {
+    text-align: justify;
+}
+
+.topics {
+    margin-top: auto;
+}
+
+#twoN {
+    margin-bottom: 300px;
+}
+
+.tables {
+    margin: auto;
+}
+
+.blank {
+    background-color: gray;
+    height: 45%;
+}
+
+.div-blank {
+    width: fit-content;
+    border-bottom: white;
+    border-top: white;
+    background-color: red;
+}
+
+
+#table3 {
+    height: 50%;
+    line-height: normal;
+}
+
+.tb-list {
+    list-style-type: disc;
+}
+
+.tb-sublist {
+    list-style-type: circle;
+}
+.sub-heads {
+    background-color: #ffe0a7;
+    font-style: italic;
+    text-align: center;
+}
+
+.subs {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+.conts {
+    font-style: italic;
+}
+
+#content {
+    list-style-type: circle;
+}
+
+.navigate {
+    list-style-type: disc;
+}
+
+#credit {
+    text-align: center;
+    font-size: medium;
+}
+
+#ig {
+    color: #788FE8;
+}
+table, td, th {
+    border: 1px black solid;
+    border-collapse: collapse;
+}
+
+
+
+/* weight and width of individual tables HEADINGS */
+th {
+    font-size: larger;
+}
+
+.tb1 {
+    background-color: rgb(255, 186, 161);
+}
+
+.tb2 {
+    background-color: rgb(247, 172, 187);
+}
+
+.tb3 {
+    background-color: rgb(255, 140, 201)
+}
+
+.tb4{
+    width: 20%;
+    background-color: rgb(194, 253, 255);
+}
+
+.tb5 {
+    background-color: rgb(219, 160, 248);
+}
+.XNK-data {
+    width: 10cm;
+    height: 25px;
+}
+
+.KH-data {
+    width: 10cm;
+    height: 25px;
+    text-align: center;
+}
+
+.DH-data {
+    font-size: large;
+}
+
+.VKT-data {
+    width: 20%;
+}
+
+.no-center {
+    text-align: left;
+    font-size: larger;
+}
+
+#table4 {
+    width: 80%;
+}
+
+.center {
+    text-align: center;
+    font-size: large;
+}
+
+.cen-tb4 {
+    font-size: x-large;
+    width: 15%;
+}
+.warning {
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    color: gray;
+    font-size: larger;
+}
+
+.TroVe {
+    text-align: center;
+}
+
+.region {
+    font-weight: bold;
+    width: 5cm;
+    text-align: center;
+    font-size: larger;
+}
+
+.imp {
+    background-color: #fdff32;
+}
+
+.TNA {
+    background-color: #DAFFDC;
+}
+
+.US {
+    background-color: #78E8C1;
+}
+
+.RUS {
+    background-color: #77DFFF;
+}
+
+.JPN {
+    background-color: #788FE8;
+}
+
+.CN {
+    background-color: #7365F0;
+}
